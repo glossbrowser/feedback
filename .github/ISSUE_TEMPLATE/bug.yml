@@ -1,11 +1,11 @@
 name: Report a bug
-description: Tell us about something that is broken in Glossium.
+description: Tell us about something that is broken in Gloss Browser.
 title: "Bug: "
 labels: [bug, triage]
 body:
   - type: markdown
     attributes:
-      value: "For feature requests, use [Ideas Discussions](https://github.com/glossium/feedback/discussions/categories/ideas). For security concerns, use [private vulnerability reporting](https://github.com/glossium/feedback/security/advisories/new). Remove private information from your report."
+      value: "For feature requests, use [Ideas Discussions](https://github.com/glossbrowser/feedback/discussions/categories/ideas). For security concerns, use [private vulnerability reporting](https://github.com/glossbrowser/feedback/security/advisories/new). Remove private information from your report."
   - type: textarea
     id: steps
     attributes:
@@ -29,8 +29,8 @@ body:
   - type: input
     id: version
     attributes:
-      label: Glossium version
-      description: From Glossium › About Glossium.
+      label: Gloss Browser version
+      description: From Gloss Browser › About Gloss Browser.
     validations:
       required: true
   - type: input

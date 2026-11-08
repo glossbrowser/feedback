@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
   - name: Suggest an idea or vote
-    url: https://github.com/glossium/feedback/discussions/categories/ideas
+    url: https://github.com/glossbrowser/feedback/discussions/categories/ideas
     about: Share a feature idea in Discussions, or vote on an existing one.
   - name: Report a security concern privately
-    url: https://github.com/glossium/feedback/security/advisories/new
+    url: https://github.com/glossbrowser/feedback/security/advisories/new
     about: Keep security details out of public Issues and Discussions.
